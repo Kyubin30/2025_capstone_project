@@ -1,0 +1,55 @@
+{
+  "industries": [
+    {
+      "industry_id": "IND00",
+      "industry_name": "전체"
+    },
+    {
+      "industry_id": "IND01",
+      "industry_name": "IT/소프트웨어"
+    },
+    {
+      "industry_id": "IND02",
+      "industry_name": "에너지/환경"
+    },
+    {
+      "industry_id": "IND03",
+      "industry_name": "바이오/제약"
+    },
+    {
+      "industry_id": "IND04",
+      "industry_name": "소비재/리테일"
+    },
+    {
+      "industry_id": "IND05",
+      "industry_name": "미디어/엔터테인먼트"
+    }
+  ],
+  "companies": [
+    {
+      "id": "COMP01",
+      "name": "엠비디아",
+      "industry_id": "IND01"
+    },
+    {
+      "id": "COMP02",
+      "name": "에코퓨처스",
+      "industry_id": "IND02"
+    },
+    {
+      "id": "COMP03",
+      "name": "무한양행",
+      "industry_id": "IND03"
+    },
+    {
+      "id": "COMP04",
+      "name": "바이마트",
+      "industry_id": "IND04"
+    },
+    {
+      "id": "COMP05",
+      "name": "에그이즈고잉",
+      "industry_id": "IND05"
+    }
+  ]
+}
