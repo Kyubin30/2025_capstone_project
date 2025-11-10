@@ -36,10 +36,12 @@ Unity 엔진과 Mirror 네트워킹을 활용한 게임 시스템과 ChatGPT 기
 뉴스는 주가에 영향을 주기 때문에 해당 뉴스를 분석하고 주가상승이 예상되는 회사에 투자해야 합니다.
 
 - 게임에 사용된 뉴스는 모두 AI를 사용한 가상 뉴스입니다.
-뉴스들은 내용에 따라 회사들에 영향을 줍니다.  
-<img src="readme_asset/comp1.png" width="80" alt="comp1">
-<img src="readme_asset/comp2.png" width="80" alt="comp2">
-<img src="readme_asset/comp3.png" width="80" alt="comp3">
+뉴스들은 내용에 따라 회사들에 영향을 줍니다.
+<p align="center">
+    <img src="readme_asset/comp1.png" width="80" alt="comp1">
+    <img src="readme_asset/comp2.png" width="80" alt="comp2">
+    <img src="readme_asset/comp3.png" width="80" alt="comp3">
+</p>
 
 - **진행 결과 확인 라운드:** 
 (라운드 종료 시)플레이어가 주식 매매 라운드에 목표 금액 달성 여부를 확인하는 턴입니다. 
@@ -49,9 +51,11 @@ Unity 엔진과 Mirror 네트워킹을 활용한 게임 시스템과 ChatGPT 기
 - **아이템 선택:** (1,2,3라운드 종료 시)플레이어는 도움이 될 아이템을 하나씩, 최대 3개의 아이템을 얻을 수 있습니다.
 아이템은 주가, 플레이어 체력 등에 영향을 줍니다.아이템은 주식 명언, 주식 용어를 기반으로 제작되었습니다.
 (ex. 달걀을 한 바구니에 담지 마라, 스켈핑, 산타 랠리 등)
-<img src="readme_asset/item1.png" width="80" alt="item1">
-<img src="readme_asset/item2.png" width="80" alt="item2">
-<img src="readme_asset/item3.png" width="80" alt="item3">
+<p align="center">
+    <img src="readme_asset/item1.png" width="80" alt="item1">
+    <img src="readme_asset/item2.png" width="80" alt="item2">
+    <img src="readme_asset/item3.png" width="80" alt="item3">
+</p>
 
 ## 기술 스택
 
